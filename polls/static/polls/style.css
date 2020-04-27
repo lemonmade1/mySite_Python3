@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: arial;
+}
+
+body {
+    height: 100vh;
+    width: 100%;
+}
+
+.container {
+    background: black url("https://quotespics.net/wp-content/uploads/2018/06/rain-background-gif.gif") no-repeat;
+    height: 100vh;
+    background: black url("http://shing.mobile9.com/download/media/41/ee6_5JNH96A0.gif") no-repeat;
+    height: 100vh;
+    background-size: contain;
+}
+
+ul {
+    position: absolute;
+    top: 24em;
+}
